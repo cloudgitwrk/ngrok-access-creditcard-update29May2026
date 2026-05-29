@@ -30,6 +30,10 @@ Connections                   ttl     opn     rt1     rt5     p50     p90
 ```
 
 Start powershell and launch WSL
+
+```ruby
+cd /mnt/c/Users/VENKATESHREDDY/AppData/Local/Programs/mongosh
+```
 ```
 vereddy@LAPTOP-CB73EHU6:/mnt/c/Users/VENKATESHREDDY/AppData/Local/Programs/mongosh$ ./mongosh.exe "mongodb://0.tcp.in.ngrok.io:22348/?directConnection=true"
 Current Mongosh Log ID: 6a199a33f08f2b4ad2abc113
