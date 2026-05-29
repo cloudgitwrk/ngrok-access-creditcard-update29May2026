@@ -37,3 +37,9 @@ Authtoken saved to configuration file: /root/.config/ngrok/ngrok.yml
 root@LAPTOP-CB73EHU6:~# ngrok config add-authtoken 3EOnZV5ckD4J1WDHLelORpWSMI4_4vmskZ9yjm4PqAJruB5uV
 Authtoken saved to configuration file: /root/.config/ngrok/ngrok.yml
 ```
+
+<img width="1495" height="536" alt="image" src="https://github.com/user-attachments/assets/3b3775d2-b003-47ec-9e2c-16620f1b0097" />
+
+
+
+
