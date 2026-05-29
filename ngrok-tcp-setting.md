@@ -29,3 +29,11 @@ ngrok exposes Windows MongoDB externally
 ````
 
 <img width="1147" height="1151" alt="image" src="https://github.com/user-attachments/assets/d6754021-2ef7-4398-87b0-8e78d06ec662" />
+```
+root@LAPTOP-CB73EHU6:~# ngrok version
+ngrok version 3.39.5
+root@LAPTOP-CB73EHU6:~# ngrok config add-authtoken 3EOnZV5ckD4J1WDHLelORpWSMI4_4vmskZ9yjm4PqAJruB5uV
+Authtoken saved to configuration file: /root/.config/ngrok/ngrok.yml
+root@LAPTOP-CB73EHU6:~# ngrok config add-authtoken 3EOnZV5ckD4J1WDHLelORpWSMI4_4vmskZ9yjm4PqAJruB5uV
+Authtoken saved to configuration file: /root/.config/ngrok/ngrok.yml
+```
