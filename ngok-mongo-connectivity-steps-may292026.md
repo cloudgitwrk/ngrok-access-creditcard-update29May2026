@@ -51,4 +51,15 @@ For mongosh info see: https://www.mongodb.com/docs/mongodb-shell/
 test>
 ```
 
-2. 
+4. For Atlas Live Migration source URI
+
+Use:
+
+mongodb://0.tcp.in.ngrok.io:22348/admin?directConnection=true
+
+But your MongoDB warning says access control is not enabled. 
+For migration testing that may connect without username/password, but for Atlas Live Migration you should enable auth and create a migration user.
+
+
+
+
