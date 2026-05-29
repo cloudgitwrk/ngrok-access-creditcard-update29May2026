@@ -19,3 +19,10 @@ Connections                   ttl     opn     rt1     rt5     p50     p90
 ```
 
 <img width="1117" height="413" alt="image" src="https://github.com/user-attachments/assets/c5cf2a67-2139-451d-b01b-cc1d61be855c" />
+```
+Architecture (what you want)
+
+MongoDB runs on Windows (localhost:27017)
+ngrok runs inside WSL
+ngrok exposes Windows MongoDB externally
+````
