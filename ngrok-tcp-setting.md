@@ -17,3 +17,5 @@ Forwarding                    tcp://0.tcp.in.ngrok.io:22348 -> localhost:27017
 Connections                   ttl     opn     rt1     rt5     p50     p90
                               4       0       0.03    0.01    0.04    11.00
 ```
+
+<img width="1117" height="413" alt="image" src="https://github.com/user-attachments/assets/c5cf2a67-2139-451d-b01b-cc1d61be855c" />
