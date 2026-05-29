@@ -25,14 +25,13 @@ Connections                   ttl     opn     rt1     rt5     p50     p90
 ```
 3. Test ngrok using Windows mongosh.exe From WSL:
 
-```ruby
-./mongosh.exe "mongodb://0.tcp.in.ngrok.io:22348/?directConnection=true"
-```
-
 Start powershell and launch WSL
 
 ```ruby
 cd /mnt/c/Users/VENKATESHREDDY/AppData/Local/Programs/mongosh
+```
+```ruby
+./mongosh.exe "mongodb://0.tcp.in.ngrok.io:22348/?directConnection=true"
 ```
 ```
 vereddy@LAPTOP-CB73EHU6:/mnt/c/Users/VENKATESHREDDY/AppData/Local/Programs/mongosh$ ./mongosh.exe "mongodb://0.tcp.in.ngrok.io:22348/?directConnection=true"
