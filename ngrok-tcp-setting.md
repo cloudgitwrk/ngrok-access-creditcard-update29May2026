@@ -1,7 +1,8 @@
 <img width="1268" height="291" alt="image" src="https://github.com/user-attachments/assets/dd41a9a0-ae5c-4be6-abc3-810c54091a3d" />
 
 <img width="1268" height="291" alt="image" src="https://github.com/user-attachments/assets/6fc323a0-5332-4525-99c9-f3d87a311fbb" />
-```rub
+
+```ruby
 ngrok                                                                                                                                                                                            (Ctrl+C to quit)
 �  One gateway for every AI model. Available in early access *now*: https://ngrok.com/r/ai
 
