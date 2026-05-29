@@ -106,6 +106,9 @@ Atlas will check:
 ✅ If everything is correct → you’ll see:
 ✔ “Validated Successfully”
 
+<img width="1008" height="531" alt="image" src="https://github.com/user-attachments/assets/a52e5de4-dc31-424c-9153-28f52cf15683" />
+
+
 ```
 Stage 1 — Validation
 
