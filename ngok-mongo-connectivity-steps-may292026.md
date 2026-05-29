@@ -94,7 +94,7 @@ Click:
 ```ruby
 Enter Source Connection Details
 Use ngrok endpoint:
-mongodb://atlasUser:StrongPassword123@0.tcp.ngrok.io:14567/admin?directConnection=true
+mongodb://atlasUser:StrongPassword123@//0.tcp.in.ngrok.io:22348/admin?directConnection=true
 ```
 ✅ 5. Atlas Connectivity Validation
 Atlas will check:
